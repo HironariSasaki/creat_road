@@ -27,11 +27,21 @@ body {
     transform: translate(-50%, -50%);
 }
 
-#sendDataButton {
+/* #sendDataButton {
     display:block;
     margin-top: 10px;
     position: relative;
     top:630px;
     left:50%;
     transform: translateX(-50%);
-}
+} */
+ #sendDataButton {
+    position: absolute;
+    z-index: 1000;
+    padding: 10px ;
+ }
+ #updateMapButton {
+    position: absolute;
+    z-index: 1000;
+    padding: 10px ;
+ }

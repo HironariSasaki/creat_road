@@ -105,11 +105,7 @@ global {
 		
 		create mobcar number:1;
 	}
-	reflex when : (cycle=1){
-		ask road {
-			write road_id;
-		}
-	}
+
 		
 }
 

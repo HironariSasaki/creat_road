@@ -126,6 +126,13 @@ function getClickedRoad(clickX, clickY, offsetX, offsetY, scale, xmove, ymove) {
             return clickedFeature;
         });
 }
+// 丸を描画する関数
+function drawCircle(ctx, x, y, radius, color) {
+    ctx.beginPath();
+    ctx.arc(x, y, radius, 0, 2 * Math.PI, false);
+    ctx.fillStyle = color;
+    ctx.fill();
+}
 
 
 // お絵描き機能の追加
@@ -153,6 +160,7 @@ highlightCanvas.addEventListener('click', (e) => {
                         s_xy: [startX, startY],
                         s_id: feature.properties.road_id
                     };
+                    drawCircle(highlightCtx, startX, canvasHeight-startY, 5, 'blue'); // 始点に丸を描画
                     isDrawing = true;
                 }
             });
@@ -178,6 +186,7 @@ highlightCanvas.addEventListener('click', (e) => {
                     // createRoadData.push(roadInfo);
                     // console.log(createRoadData);
                     // roadInfo = {};
+                    drawCircle(highlightCtx, endX, canvasHeight-endY, 5, 'blue'); // 始点に丸を描画
                     isDrawing = false; // 描画完了
                 }
             });
@@ -204,7 +213,18 @@ function sendDataToServer(data) {
 }
 
 const sendDataButton = document.getElementById('sendDataButton');
+const canvasRect = canvas.getBoundingClientRect();
+sendDataButton.style.top = `${canvasRect.bottom+window.scrollY+5}px`;
+sendDataButton.style.left = `${canvasRect.left}px`;
 sendDataButton.addEventListener('click', () => {
     sendDataToServer(roadInfo);
 });
 
+
+const updateMapButton = document.getElementById('updateMapButton');
+updateMapButton.style.top = `${canvasRect.bottom+window.scrollY+5}px`;
+updateMapButton.style.left = `${canvasRect.left+100}px`;
+updateMapButton.addEventListener('click',()=>{
+    highlightCtx.clearRect(0, 0, highlightCanvas.width, highlightCanvas.height);
+    location.reload();
+});
