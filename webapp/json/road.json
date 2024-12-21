@@ -1,0 +1,2822 @@
+[
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556755.830676267,
+                    3481145.472293608
+                ],
+                [
+                    13556758.080676286,
+                    3481112.138960008
+                ],
+                [
+                    13556760.358454082,
+                    3481099.1945154597
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2427,
+            "linkno": 2913,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 508,
+            "road_id": 3,
+            "length": 46.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556754.69178737,
+                    3481190.86118286
+                ],
+                [
+                    13556755.830676267,
+                    3481145.472293608
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2428,
+            "linkno": 2914,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 458,
+            "road_id": 4,
+            "length": 45.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556752.414009573,
+                    3481235.30562766
+                ],
+                [
+                    13556754.69178737,
+                    3481190.86118286
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2429,
+            "linkno": 2915,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 420,
+            "road_id": 5,
+            "length": 44.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556750.136231778,
+                    3481299.1667392817
+                ],
+                [
+                    13556752.414009573,
+                    3481235.30562766
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2430,
+            "linkno": 2916,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 439,
+            "road_id": 6,
+            "length": 64.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556747.858453982,
+                    3481344.527850756
+                ],
+                [
+                    13556750.136231778,
+                    3481299.1667392817
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2431,
+            "linkno": 2917,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 448,
+            "road_id": 7,
+            "length": 45.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556747.858453982,
+                    3481392.66674003
+                ],
+                [
+                    13556747.858453982,
+                    3481344.527850756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2432,
+            "linkno": 2918,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 458,
+            "road_id": 8,
+            "length": 48.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556743.30289839,
+                    3481595.416741652
+                ],
+                [
+                    13556742.164009491,
+                    3481521.361185504
+                ],
+                [
+                    13556743.30289839,
+                    3481500.0834075557
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 2648,
+            "linkno": 3136,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 342,
+            "road_id": 9,
+            "length": 95.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556746.719565084,
+                    3481450.083407156
+                ],
+                [
+                    13556747.858453982,
+                    3481392.66674003
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30061,
+            "linkno": 26333,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 474,
+            "road_id": 11,
+            "length": 57.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556743.30289839,
+                    3481500.0834075557
+                ],
+                [
+                    13556745.552898407,
+                    3481488.9722963558
+                ],
+                [
+                    13556746.719565084,
+                    3481450.083407156
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 3202,
+            "linkno": 3704,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 385,
+            "road_id": 12,
+            "length": 50.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556760.358454082,
+                    3481099.1945154597
+                ],
+                [
+                    13556622.858452981,
+                    3481097.333404334
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 3556,
+            "linkno": 4059,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 14,
+            "length": 137.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556387.664006656,
+                    3481498.194518652
+                ],
+                [
+                    13556447.88622936,
+                    3481499.1389631038
+                ],
+                [
+                    13556511.497340979,
+                    3481499.1389631038
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 5440,
+            "linkno": 5952,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 19,
+            "length": 124.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556511.497340979,
+                    3481499.1389631038
+                ],
+                [
+                    13556575.136230377,
+                    3481498.194518652
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 5441,
+            "linkno": 5953,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 20,
+            "length": 63.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556575.136230377,
+                    3481498.194518652
+                ],
+                [
+                    13556623.99734188,
+                    3481498.194518652
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 5442,
+            "linkno": 5954,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 21,
+            "length": 49.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556623.99734188,
+                    3481498.194518652
+                ],
+                [
+                    13556716.052898172,
+                    3481500.0556297777
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 5443,
+            "linkno": 5955,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 22,
+            "length": 92.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556716.052898172,
+                    3481500.0556297777
+                ],
+                [
+                    13556743.30289839,
+                    3481500.0834075557
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 5444,
+            "linkno": 5956,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 2,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 23,
+            "length": 27.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556764.914009674,
+                    3481051.97229286
+                ],
+                [
+                    13556764.914009674,
+                    3481081.583404208
+                ],
+                [
+                    13556760.358454082,
+                    3481099.1945154597
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 6528,
+            "linkno": 7043,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 28,
+            "length": 48.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556743.30289839,
+                    3481500.0834075557
+                ],
+                [
+                    13556872.830677204,
+                    3481502.861185356
+                ],
+                [
+                    13556881.91401061,
+                    3481503.77785203
+                ],
+                [
+                    13556896.691788506,
+                    3481506.55562983
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 7060,
+            "linkno": 7584,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 29,
+            "length": 154.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556383.108451065,
+                    3481250.083405556
+                ],
+                [
+                    13556381.969562165,
+                    3481307.500072682
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9182,
+            "linkno": 22028,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 35,
+            "length": 57.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481097.333404334
+                ],
+                [
+                    13556516.08067435,
+                    3481093.63895986
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9252,
+            "linkno": 26291,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 36,
+            "length": 106.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556383.108451065,
+                    3481001.97229246
+                ],
+                [
+                    13556384.247339962,
+                    3481090.833404282
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9254,
+            "linkno": 26293,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 38,
+            "length": 89.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556384.247339962,
+                    3481090.833404282
+                ],
+                [
+                    13556385.38622886,
+                    3481101.944515482
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9255,
+            "linkno": 26294,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 39,
+            "length": 11.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556385.38622886,
+                    3481101.944515482
+                ],
+                [
+                    13556384.247339962,
+                    3481134.33340463
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9256,
+            "linkno": 26295,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 40,
+            "length": 32.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556384.247339962,
+                    3481134.33340463
+                ],
+                [
+                    13556384.247339962,
+                    3481171.388960482
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9257,
+            "linkno": 26296,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 41,
+            "length": 37.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556384.247339962,
+                    3481171.388960482
+                ],
+                [
+                    13556384.247339962,
+                    3481199.1667384817
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9258,
+            "linkno": 26297,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 42,
+            "length": 28.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556384.247339962,
+                    3481199.1667384817
+                ],
+                [
+                    13556384.247339962,
+                    3481206.55562743
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9259,
+            "linkno": 26298,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 43,
+            "length": 7.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556384.247339962,
+                    3481206.55562743
+                ],
+                [
+                    13556383.108451065,
+                    3481250.083405556
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9260,
+            "linkno": 26299,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 44,
+            "length": 43.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556381.969562165,
+                    3481307.500072682
+                ],
+                [
+                    13556383.108451065,
+                    3481339.8889618297
+                ],
+                [
+                    13556384.247339962,
+                    3481365.805628704
+                ],
+                [
+                    13556385.38622886,
+                    3481389.8611844517
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9261,
+            "linkno": 26343,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 45,
+            "length": 82.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556385.38622886,
+                    3481389.8611844517
+                ],
+                [
+                    13556385.38622886,
+                    3481441.722295978
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9262,
+            "linkno": 26344,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 46,
+            "length": 52.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556385.38622886,
+                    3481441.722295978
+                ],
+                [
+                    13556385.38622886,
+                    3481477.833407378
+                ],
+                [
+                    13556387.664006656,
+                    3481498.194518652
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9263,
+            "linkno": 26345,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 47,
+            "length": 56.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556670.580675585,
+                    3481233.416738756
+                ],
+                [
+                    13556752.414009573,
+                    3481235.30562766
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9721,
+            "linkno": 32827,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 423,
+            "road_id": 48,
+            "length": 81.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481231.55562763
+                ],
+                [
+                    13556670.580675585,
+                    3481233.416738756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 9723,
+            "linkno": 32834,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 539,
+            "road_id": 49,
+            "length": 47.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556462.664007256,
+                    3481092.694515408
+                ],
+                [
+                    13556384.247339962,
+                    3481090.833404282
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 10929,
+            "linkno": 37318,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 30,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 56,
+            "length": 78.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556516.08067435,
+                    3481093.63895986
+                ],
+                [
+                    13556462.664007256,
+                    3481092.694515408
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 11058,
+            "linkno": 37743,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 58,
+            "length": 53.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556331.969561765,
+                    3481497.277851978
+                ],
+                [
+                    13556387.664006656,
+                    3481498.194518652
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 11495,
+            "linkno": 39213,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 40,
+            "maxspeed_2": null,
+            "planesu": 1,
+            "mlanesu": 1,
+            "fukuin": 0,
+            "road_id": 67,
+            "length": 55.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556597.858452782,
+                    3481390.833406682
+                ],
+                [
+                    13556597.858452782,
+                    3481369.5278509557
+                ],
+                [
+                    13556595.580674985,
+                    3481325.083406156
+                ],
+                [
+                    13556592.19178607,
+                    3481301.944517082
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 16637,
+            "linkno": 12528,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 93,
+            "length": 89.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481255.638961156
+                ],
+                [
+                    13556561.49734138,
+                    3481253.77785003
+                ],
+                [
+                    13556509.247340962,
+                    3481252.861183356
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 16638,
+            "linkno": 12529,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 402,
+            "road_id": 94,
+            "length": 113.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556385.38622886,
+                    3481441.722295978
+                ],
+                [
+                    13556461.525118358,
+                    3481442.638962652
+                ],
+                [
+                    13556468.330673968,
+                    3481445.416740452
+                ],
+                [
+                    13556471.719562884,
+                    3481446.361184904
+                ],
+                [
+                    13556509.219563184,
+                    3481446.361184904
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 16642,
+            "linkno": 12533,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 414,
+            "road_id": 98,
+            "length": 124.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556716.052898172,
+                    3481500.0556297777
+                ],
+                [
+                    13556716.052898172,
+                    3481469.5278517557
+                ],
+                [
+                    13556718.330675967,
+                    3481428.77785143
+                ],
+                [
+                    13556723.99734268,
+                    3481392.66674003
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 16644,
+            "linkno": 12535,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 100,
+            "length": 107.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556509.247340962,
+                    3481252.861183356
+                ],
+                [
+                    13556481.969562966,
+                    3481252.861183356
+                ],
+                [
+                    13556383.108451065,
+                    3481250.083405556
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 21240,
+            "linkno": 17245,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 292,
+            "road_id": 109,
+            "length": 126.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556511.525118757,
+                    3481175.083404956
+                ],
+                [
+                    13556491.08067415,
+                    3481174.166738282
+                ],
+                [
+                    13556384.247339962,
+                    3481171.388960482
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 21244,
+            "linkno": 17249,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 113,
+            "length": 127.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556617.19178627,
+                    3481048.2500706078
+                ],
+                [
+                    13556622.858452981,
+                    3481097.333404334
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 25833,
+            "linkno": 22026,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 368,
+            "road_id": 120,
+            "length": 49.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481213.972294156
+                ],
+                [
+                    13556601.275119476,
+                    3481212.11118303
+                ],
+                [
+                    13556510.38622986,
+                    3481209.3334052297
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 25835,
+            "linkno": 22029,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 395,
+            "road_id": 121,
+            "length": 112.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556504.691785369,
+                    3481386.194517756
+                ],
+                [
+                    13556505.830674268,
+                    3481401.916740104
+                ],
+                [
+                    13556505.830674268,
+                    3481405.611184578
+                ],
+                [
+                    13556502.414007574,
+                    3481418.583406904
+                ],
+                [
+                    13556502.414007574,
+                    3481421.361184704
+                ],
+                [
+                    13556506.941785388,
+                    3481432.472295904
+                ],
+                [
+                    13556509.219563184,
+                    3481446.361184904
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 25838,
+            "linkno": 22032,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 320,
+            "road_id": 124,
+            "length": 62.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556627.414008575,
+                    3481391.750073356
+                ],
+                [
+                    13556625.136230778,
+                    3481413.055629082
+                ],
+                [
+                    13556622.858452981,
+                    3481434.33340703
+                ],
+                [
+                    13556621.719564084,
+                    3481450.0556293777
+                ],
+                [
+                    13556621.719564084,
+                    3481482.472296304
+                ],
+                [
+                    13556623.99734188,
+                    3481498.194518652
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 25839,
+            "linkno": 22033,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 125,
+            "length": 107.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556516.08067435,
+                    3481093.63895986
+                ],
+                [
+                    13556513.802896554,
+                    3481138.0834046598
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30028,
+            "linkno": 26300,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 348,
+            "road_id": 130,
+            "length": 44.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556513.802896554,
+                    3481138.0834046598
+                ],
+                [
+                    13556511.525118757,
+                    3481175.083404956
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30029,
+            "linkno": 26301,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 320,
+            "road_id": 131,
+            "length": 37.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556511.525118757,
+                    3481175.083404956
+                ],
+                [
+                    13556510.38622986,
+                    3481209.3334052297
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30030,
+            "linkno": 26302,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 441,
+            "road_id": 132,
+            "length": 34.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556510.38622986,
+                    3481209.3334052297
+                ],
+                [
+                    13556509.247340962,
+                    3481252.861183356
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30031,
+            "linkno": 26303,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 521,
+            "road_id": 133,
+            "length": 43.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556509.247340962,
+                    3481252.861183356
+                ],
+                [
+                    13556508.080674285,
+                    3481305.638961556
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30032,
+            "linkno": 26304,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 537,
+            "road_id": 134,
+            "length": 53.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556508.080674285,
+                    3481305.638961556
+                ],
+                [
+                    13556508.080674285,
+                    3481342.66673963
+                ],
+                [
+                    13556508.080674285,
+                    3481368.6111842818
+                ],
+                [
+                    13556506.941785388,
+                    3481377.861184356
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30033,
+            "linkno": 26305,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 387,
+            "road_id": 135,
+            "length": 72.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556506.941785388,
+                    3481377.861184356
+                ],
+                [
+                    13556504.691785369,
+                    3481386.194517756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30034,
+            "linkno": 26306,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 396,
+            "road_id": 136,
+            "length": 8.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481097.333404334
+                ],
+                [
+                    13556625.136230778,
+                    3481120.472293408
+                ],
+                [
+                    13556625.136230778,
+                    3481141.777849134
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30035,
+            "linkno": 26307,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 437,
+            "road_id": 137,
+            "length": 44.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481177.888960534
+                ],
+                [
+                    13556625.136230778,
+                    3481187.11118283
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30036,
+            "linkno": 26308,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 426,
+            "road_id": 138,
+            "length": 9.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481187.11118283
+                ],
+                [
+                    13556622.858452981,
+                    3481213.972294156
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30037,
+            "linkno": 26309,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 388,
+            "road_id": 139,
+            "length": 26.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481213.972294156
+                ],
+                [
+                    13556622.858452981,
+                    3481231.55562763
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30038,
+            "linkno": 26310,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 396,
+            "road_id": 140,
+            "length": 17.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481231.55562763
+                ],
+                [
+                    13556622.858452981,
+                    3481255.638961156
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30039,
+            "linkno": 26311,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 409,
+            "road_id": 141,
+            "length": 24.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481255.638961156
+                ],
+                [
+                    13556625.136230778,
+                    3481301.944517082
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30040,
+            "linkno": 26312,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 400,
+            "road_id": 142,
+            "length": 46.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481301.944517082
+                ],
+                [
+                    13556627.414008575,
+                    3481367.66673983
+                ],
+                [
+                    13556627.414008575,
+                    3481391.750073356
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30041,
+            "linkno": 26313,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 363,
+            "road_id": 143,
+            "length": 89.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556513.802896554,
+                    3481138.0834046598
+                ],
+                [
+                    13556531.969563365,
+                    3481139.0000713337
+                ],
+                [
+                    13556625.136230778,
+                    3481141.777849134
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30043,
+            "linkno": 26315,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 145,
+            "length": 111.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556754.69178737,
+                    3481190.86118286
+                ],
+                [
+                    13556625.136230778,
+                    3481187.11118283
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30049,
+            "linkno": 26321,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 581,
+            "road_id": 146,
+            "length": 130.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556845.552899208,
+                    3481301.944517082
+                ],
+                [
+                    13556750.136231778,
+                    3481299.1667392817
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30051,
+            "linkno": 26323,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 378,
+            "road_id": 147,
+            "length": 95.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556693.330675768,
+                    3481301.00007263
+                ],
+                [
+                    13556750.136231778,
+                    3481299.1667392817
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30052,
+            "linkno": 26324,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 373,
+            "road_id": 148,
+            "length": 56.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556660.358453281,
+                    3481301.00007263
+                ],
+                [
+                    13556693.330675768,
+                    3481301.00007263
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30053,
+            "linkno": 26325,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 507,
+            "road_id": 149,
+            "length": 33.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481301.944517082
+                ],
+                [
+                    13556660.358453281,
+                    3481301.00007263
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30054,
+            "linkno": 26326,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 268,
+            "road_id": 150,
+            "length": 35.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556592.19178607,
+                    3481301.944517082
+                ],
+                [
+                    13556625.136230778,
+                    3481301.944517082
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30055,
+            "linkno": 26327,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 430,
+            "road_id": 151,
+            "length": 33.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556508.080674285,
+                    3481305.638961556
+                ],
+                [
+                    13556533.080674486,
+                    3481302.861183756
+                ],
+                [
+                    13556547.858452382,
+                    3481301.944517082
+                ],
+                [
+                    13556592.19178607,
+                    3481301.944517082
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30056,
+            "linkno": 26328,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 508,
+            "road_id": 152,
+            "length": 84.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556381.969562165,
+                    3481307.500072682
+                ],
+                [
+                    13556477.441785151,
+                    3481308.416739356
+                ],
+                [
+                    13556508.080674285,
+                    3481305.638961556
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30057,
+            "linkno": 26329,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": -1,
+            "road_id": 153,
+            "length": 126.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556723.99734268,
+                    3481392.66674003
+                ],
+                [
+                    13556747.858453982,
+                    3481392.66674003
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30061,
+            "linkno": 26333,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 361,
+            "road_id": 156,
+            "length": 24.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556686.49734238,
+                    3481392.66674003
+                ],
+                [
+                    13556723.99734268,
+                    3481392.66674003
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30062,
+            "linkno": 26334,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 322,
+            "road_id": 157,
+            "length": 37.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556645.580675386,
+                    3481391.750073356
+                ],
+                [
+                    13556686.49734238,
+                    3481392.66674003
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30063,
+            "linkno": 26335,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 313,
+            "road_id": 158,
+            "length": 41.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556627.414008575,
+                    3481391.750073356
+                ],
+                [
+                    13556645.580675386,
+                    3481391.750073356
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30064,
+            "linkno": 26336,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 310,
+            "road_id": 159,
+            "length": 18.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556627.414008575,
+                    3481391.750073356
+                ],
+                [
+                    13556597.858452782,
+                    3481390.833406682
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30065,
+            "linkno": 26337,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 264,
+            "road_id": 160,
+            "length": 29.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556504.691785369,
+                    3481386.194517756
+                ],
+                [
+                    13556477.441785151,
+                    3481392.638962252
+                ],
+                [
+                    13556461.525118358,
+                    3481391.722295578
+                ],
+                [
+                    13556438.802895954,
+                    3481389.8611844517
+                ],
+                [
+                    13556394.469562266,
+                    3481389.8611844517
+                ],
+                [
+                    13556385.38622886,
+                    3481389.8611844517
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30066,
+            "linkno": 26338,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 495,
+            "road_id": 161,
+            "length": 120.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556510.38622986,
+                    3481209.3334052297
+                ],
+                [
+                    13556384.247339962,
+                    3481206.55562743
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30071,
+            "linkno": 26346,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 378,
+            "road_id": 166,
+            "length": 126.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556509.219563184,
+                    3481446.361184904
+                ],
+                [
+                    13556511.497340979,
+                    3481499.1389631038
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30076,
+            "linkno": 26351,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 171,
+            "length": 53.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556511.497340979,
+                    3481499.1389631038
+                ],
+                [
+                    13556508.080674285,
+                    3481511.166740978
+                ],
+                [
+                    13556508.080674285,
+                    3481518.583407704
+                ],
+                [
+                    13556508.080674285,
+                    3481525.055629978
+                ],
+                [
+                    13556511.497340979,
+                    3481550.0556301777
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 30077,
+            "linkno": 26352,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 172,
+            "length": 51.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481141.777849134
+                ],
+                [
+                    13556738.775120575,
+                    3481144.555626934
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 32976,
+            "linkno": 29311,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 418,
+            "road_id": 177,
+            "length": 113.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556738.775120575,
+                    3481144.555626934
+                ],
+                [
+                    13556755.830676267,
+                    3481145.472293608
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 32977,
+            "linkno": 29312,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 408,
+            "road_id": 178,
+            "length": 17.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556622.858452981,
+                    3481213.972294156
+                ],
+                [
+                    13556639.914008673,
+                    3481215.833405282
+                ],
+                [
+                    13556669.441786688,
+                    3481216.750071956
+                ],
+                [
+                    13556670.580675585,
+                    3481233.416738756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 35846,
+            "linkno": 32820,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 190,
+            "length": 63.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556567.19178587,
+                    3481176.944516082
+                ],
+                [
+                    13556567.19178587,
+                    3481160.277849282
+                ],
+                [
+                    13556625.136230778,
+                    3481161.222293734
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 35862,
+            "linkno": 32840,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 191,
+            "length": 74.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481161.222293734
+                ],
+                [
+                    13556625.136230778,
+                    3481177.888960534
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 35867,
+            "linkno": 32847,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 419,
+            "road_id": 192,
+            "length": 17.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481141.777849134
+                ],
+                [
+                    13556625.136230778,
+                    3481161.222293734
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 35872,
+            "linkno": 32854,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": 20,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 465,
+            "road_id": 193,
+            "length": 19.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556567.19178587,
+                    3481176.944516082
+                ],
+                [
+                    13556535.386230059,
+                    3481176.00007163
+                ],
+                [
+                    13556511.525118757,
+                    3481175.083404956
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 35879,
+            "linkno": 32863,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 194,
+            "length": 56.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556625.136230778,
+                    3481177.888960534
+                ],
+                [
+                    13556567.19178587,
+                    3481176.944516082
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 35884,
+            "linkno": 32870,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 195,
+            "length": 57.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556575.136230377,
+                    3481498.194518652
+                ],
+                [
+                    13556575.136230377,
+                    3481495.416740852
+                ],
+                [
+                    13556575.136230377,
+                    3481485.250074104
+                ],
+                [
+                    13556572.85845258,
+                    3481456.527851652
+                ],
+                [
+                    13556572.85845258,
+                    3481426.916740304
+                ],
+                [
+                    13556573.99734148,
+                    3481389.8889622297
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 36866,
+            "linkno": 34297,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 200,
+            "length": 108.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556573.99734148,
+                    3481389.8889622297
+                ],
+                [
+                    13556527.414007774,
+                    3481389.8889622297
+                ],
+                [
+                    13556517.19178547,
+                    3481388.9722955558
+                ],
+                [
+                    13556504.691785369,
+                    3481386.194517756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 36872,
+            "linkno": 34303,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 305,
+            "road_id": 201,
+            "length": 69.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556597.858452782,
+                    3481390.833406682
+                ],
+                [
+                    13556573.99734148,
+                    3481389.8889622297
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 36879,
+            "linkno": 34310,
+            "oneway": 1,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 352,
+            "road_id": 202,
+            "length": 24.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556517.219563248,
+                    3481045.472292808
+                ],
+                [
+                    13556516.08067435,
+                    3481076.027848608
+                ],
+                [
+                    13556516.08067435,
+                    3481093.63895986
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 37749,
+            "linkno": 35778,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": 60,
+            "maxspeed_2": null,
+            "planesu": 0,
+            "mlanesu": 0,
+            "fukuin": 377,
+            "road_id": 203,
+            "length": 48.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556462.664007256,
+                    3481092.694515408
+                ],
+                [
+                    13556460.38622946,
+                    3481136.194515756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 38418,
+            "linkno": 36849,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 209,
+            "length": 43.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556460.38622946,
+                    3481136.194515756
+                ],
+                [
+                    13556494.469563065,
+                    3481137.11118243
+                ],
+                [
+                    13556513.802896554,
+                    3481138.0834046598
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 39142,
+            "linkno": 38066,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 213,
+            "length": 53.0
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556384.247339962,
+                    3481134.33340463
+                ],
+                [
+                    13556460.38622946,
+                    3481136.194515756
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 39311,
+            "linkno": 38344,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 214,
+            "length": 76.5
+        }
+    },
+    {
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13556623.99734188,
+                    3481498.194518652
+                ],
+                [
+                    13556625.136230778,
+                    3481518.583407704
+                ],
+                [
+                    13556627.414008575,
+                    3481568.583408104
+                ],
+                [
+                    13556628.552897472,
+                    3481588.944519378
+                ],
+                [
+                    13556625.136230778,
+                    3481611.166741778
+                ],
+                [
+                    13556625.136230778,
+                    3481612.083408452
+                ]
+            ]
+        },
+        "properties": {
+            "fid": 40282,
+            "linkno": 40275,
+            "oneway": 0,
+            "netlevel": 0,
+            "maxspeed": null,
+            "maxspeed_2": null,
+            "planesu": null,
+            "mlanesu": null,
+            "fukuin": null,
+            "road_id": 218,
+            "length": 114.5
+        }
+    }
+]

@@ -1,0 +1,24 @@
+!SESSION 2024-12-21 13:10:27.867 -----------------------------------------------
+eclipse.buildId=${build.id}
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=ja_JP
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -data @noDefault
+
+!ENTRY org.eclipse.urischeme 4 0 2024-12-21 13:11:13.694
+!MESSAGE org.xml.sax.SAXParseException; lineNumber: 2; columnNumber: 10; 機能"http://apache.org/xml/features/disallow-doctype-decl"がtrueに設定されている場合、DOCTYPEは指定できません。
+!STACK 0
+java.lang.IllegalArgumentException: org.xml.sax.SAXParseException; lineNumber: 2; columnNumber: 10; 機能"http://apache.org/xml/features/disallow-doctype-decl"がtrueに設定されている場合、DOCTYPEは指定できません。
+	at org.eclipse.urischeme.internal.registration.PlistFileWriter.getDom(PlistFileWriter.java:221)
+	at org.eclipse.urischeme.internal.registration.PlistFileWriter.<init>(PlistFileWriter.java:69)
+	at org.eclipse.urischeme.internal.registration.RegistrationMacOsX.getPlistFileWriter(RegistrationMacOsX.java:122)
+	at org.eclipse.urischeme.internal.registration.RegistrationMacOsX.changePlistFile(RegistrationMacOsX.java:139)
+	at org.eclipse.urischeme.internal.registration.RegistrationMacOsX.handleSchemes(RegistrationMacOsX.java:55)
+	at org.eclipse.urischeme.AutoRegisterSchemeHandlersJob.run(AutoRegisterSchemeHandlersJob.java:95)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 2; columnNumber: 10; 機能"http://apache.org/xml/features/disallow-doctype-decl"がtrueに設定されている場合、DOCTYPEは指定できません。
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:262)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at org.eclipse.core.internal.runtime.XmlProcessorFactory.parseWithErrorOnDOCTYPE(XmlProcessorFactory.java:237)
+	at org.eclipse.urischeme.internal.registration.PlistFileWriter.getDom(PlistFileWriter.java:219)
+	... 6 more

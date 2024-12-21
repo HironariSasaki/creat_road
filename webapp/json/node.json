@@ -1,0 +1,1124 @@
+[
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556693.330675768,
+                3481301.00007263
+            ]
+        },
+        "properties": {
+            "fid": 30052,
+            "linkno": 26324,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 1,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556660.358453281,
+                3481301.00007263
+            ]
+        },
+        "properties": {
+            "fid": 30054,
+            "linkno": 26326,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 2,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556686.49734238,
+                3481392.66674003
+            ]
+        },
+        "properties": {
+            "fid": 30062,
+            "linkno": 26334,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 3,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556645.580675386,
+                3481391.750073356
+            ]
+        },
+        "properties": {
+            "fid": 30064,
+            "linkno": 26336,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 4,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556511.497340979,
+                3481550.0556301777
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 5,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556625.136230778,
+                3481612.083408452
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 6,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556743.30289839,
+                3481595.416741652
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 7,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556896.691788506,
+                3481506.55562983
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 8,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556845.552899208,
+                3481301.944517082
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 9,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556331.969561765,
+                3481497.277851978
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 10,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556383.108451065,
+                3481001.97229246
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 11,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556517.219563248,
+                3481045.472292808
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 12,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556617.19178627,
+                3481048.2500706078
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 13,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556764.914009674,
+                3481051.97229286
+            ]
+        },
+        "properties": {
+            "fid": null,
+            "linkno": null,
+            "layer": "",
+            "path": "",
+            "node_id": 14,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556743.30289839,
+                3481500.0834075557
+            ]
+        },
+        "properties": {
+            "fid": 2648,
+            "linkno": 3136,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 15,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556508.080674285,
+                3481305.638961556
+            ]
+        },
+        "properties": {
+            "fid": 30032,
+            "linkno": 26304,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 16,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556625.136230778,
+                3481301.944517082
+            ]
+        },
+        "properties": {
+            "fid": 30040,
+            "linkno": 26312,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 17,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556387.664006656,
+                3481498.194518652
+            ]
+        },
+        "properties": {
+            "fid": 5440,
+            "linkno": 5952,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 18,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556511.497340979,
+                3481499.1389631038
+            ]
+        },
+        "properties": {
+            "fid": 5440,
+            "linkno": 5952,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 19,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556575.136230377,
+                3481498.194518652
+            ]
+        },
+        "properties": {
+            "fid": 5441,
+            "linkno": 5953,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 20,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556623.99734188,
+                3481498.194518652
+            ]
+        },
+        "properties": {
+            "fid": 5442,
+            "linkno": 5954,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 21,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556716.052898172,
+                3481500.0556297777
+            ]
+        },
+        "properties": {
+            "fid": 16644,
+            "linkno": 12535,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 22,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556746.719565084,
+                3481450.083407156
+            ]
+        },
+        "properties": {
+            "fid": 30061,
+            "linkno": 26333,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 23,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556747.858453982,
+                3481392.66674003
+            ]
+        },
+        "properties": {
+            "fid": 30061,
+            "linkno": 26333,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 24,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556723.99734268,
+                3481392.66674003
+            ]
+        },
+        "properties": {
+            "fid": 16644,
+            "linkno": 12535,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 25,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556627.414008575,
+                3481391.750073356
+            ]
+        },
+        "properties": {
+            "fid": 25839,
+            "linkno": 22033,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 26,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556597.858452782,
+                3481390.833406682
+            ]
+        },
+        "properties": {
+            "fid": 36879,
+            "linkno": 34310,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 27,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556573.99734148,
+                3481389.8889622297
+            ]
+        },
+        "properties": {
+            "fid": 36866,
+            "linkno": 34297,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 28,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556506.941785388,
+                3481377.861184356
+            ]
+        },
+        "properties": {
+            "fid": 30033,
+            "linkno": 26305,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 29,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556504.691785369,
+                3481386.194517756
+            ]
+        },
+        "properties": {
+            "fid": 25838,
+            "linkno": 22032,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 30,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556385.38622886,
+                3481389.8611844517
+            ]
+        },
+        "properties": {
+            "fid": 9261,
+            "linkno": 26343,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 31,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556385.38622886,
+                3481441.722295978
+            ]
+        },
+        "properties": {
+            "fid": 9263,
+            "linkno": 26345,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 32,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556509.219563184,
+                3481446.361184904
+            ]
+        },
+        "properties": {
+            "fid": 25838,
+            "linkno": 22032,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 33,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556747.858453982,
+                3481344.527850756
+            ]
+        },
+        "properties": {
+            "fid": 2431,
+            "linkno": 2917,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 34,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556750.136231778,
+                3481299.1667392817
+            ]
+        },
+        "properties": {
+            "fid": 2430,
+            "linkno": 2916,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 35,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556592.19178607,
+                3481301.944517082
+            ]
+        },
+        "properties": {
+            "fid": 16637,
+            "linkno": 12528,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 36,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556381.969562165,
+                3481307.500072682
+            ]
+        },
+        "properties": {
+            "fid": 30057,
+            "linkno": 26329,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 37,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556383.108451065,
+                3481250.083405556
+            ]
+        },
+        "properties": {
+            "fid": 21240,
+            "linkno": 17245,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 38,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556509.247340962,
+                3481252.861183356
+            ]
+        },
+        "properties": {
+            "fid": 16638,
+            "linkno": 12529,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 39,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556622.858452981,
+                3481255.638961156
+            ]
+        },
+        "properties": {
+            "fid": 30039,
+            "linkno": 26311,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 40,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556622.858452981,
+                3481231.55562763
+            ]
+        },
+        "properties": {
+            "fid": 30039,
+            "linkno": 26311,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 41,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556670.580675585,
+                3481233.416738756
+            ]
+        },
+        "properties": {
+            "fid": 9721,
+            "linkno": 32827,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 42,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556752.414009573,
+                3481235.30562766
+            ]
+        },
+        "properties": {
+            "fid": 2430,
+            "linkno": 2916,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 43,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556622.858452981,
+                3481213.972294156
+            ]
+        },
+        "properties": {
+            "fid": 25835,
+            "linkno": 22029,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 44,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556510.38622986,
+                3481209.3334052297
+            ]
+        },
+        "properties": {
+            "fid": 25835,
+            "linkno": 22029,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 45,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556384.247339962,
+                3481206.55562743
+            ]
+        },
+        "properties": {
+            "fid": 9259,
+            "linkno": 26298,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 46,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556384.247339962,
+                3481199.1667384817
+            ]
+        },
+        "properties": {
+            "fid": 9258,
+            "linkno": 26297,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 47,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556384.247339962,
+                3481171.388960482
+            ]
+        },
+        "properties": {
+            "fid": 9258,
+            "linkno": 26297,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 48,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556511.525118757,
+                3481175.083404956
+            ]
+        },
+        "properties": {
+            "fid": 21244,
+            "linkno": 17249,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 49,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556567.19178587,
+                3481176.944516082
+            ]
+        },
+        "properties": {
+            "fid": 35879,
+            "linkno": 32863,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 50,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556625.136230778,
+                3481187.11118283
+            ]
+        },
+        "properties": {
+            "fid": 30049,
+            "linkno": 26321,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 51,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556625.136230778,
+                3481177.888960534
+            ]
+        },
+        "properties": {
+            "fid": 35867,
+            "linkno": 32847,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 52,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556625.136230778,
+                3481161.222293734
+            ]
+        },
+        "properties": {
+            "fid": 35867,
+            "linkno": 32847,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 53,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556754.69178737,
+                3481190.86118286
+            ]
+        },
+        "properties": {
+            "fid": 2428,
+            "linkno": 2914,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 54,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556755.830676267,
+                3481145.472293608
+            ]
+        },
+        "properties": {
+            "fid": 32977,
+            "linkno": 29312,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 55,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556738.775120575,
+                3481144.555626934
+            ]
+        },
+        "properties": {
+            "fid": 32976,
+            "linkno": 29311,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 56,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556625.136230778,
+                3481141.777849134
+            ]
+        },
+        "properties": {
+            "fid": 30035,
+            "linkno": 26307,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 57,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556513.802896554,
+                3481138.0834046598
+            ]
+        },
+        "properties": {
+            "fid": 30028,
+            "linkno": 26300,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 58,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556460.38622946,
+                3481136.194515756
+            ]
+        },
+        "properties": {
+            "fid": 38418,
+            "linkno": 36849,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 59,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556384.247339962,
+                3481134.33340463
+            ]
+        },
+        "properties": {
+            "fid": 9256,
+            "linkno": 26295,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 60,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556385.38622886,
+                3481101.944515482
+            ]
+        },
+        "properties": {
+            "fid": 9255,
+            "linkno": 26294,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 61,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556384.247339962,
+                3481090.833404282
+            ]
+        },
+        "properties": {
+            "fid": 9254,
+            "linkno": 26293,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 62,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556462.664007256,
+                3481092.694515408
+            ]
+        },
+        "properties": {
+            "fid": 38418,
+            "linkno": 36849,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 63,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556516.08067435,
+                3481093.63895986
+            ]
+        },
+        "properties": {
+            "fid": 9252,
+            "linkno": 26291,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 64,
+            "signaltype": 4
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556622.858452981,
+                3481097.333404334
+            ]
+        },
+        "properties": {
+            "fid": 3556,
+            "linkno": 4059,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 65,
+            "signaltype": null
+        }
+    },
+    {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13556760.358454082,
+                3481099.1945154597
+            ]
+        },
+        "properties": {
+            "fid": 3556,
+            "linkno": 4059,
+            "layer": "\u9802\u70b9",
+            "path": "Point?field=fid:double(20,0)&field=linkno:double(20,0)&field=oneway:double(20,0)&field=netlevel:double(20,0)&field=maxspeed:double(20,0)&field=maxspeed_2:double(20,0)&field=planesu:double(20,0)&field=mlanesu:double(20,0)&field=fukuin:double(20,0)&field=v",
+            "node_id": 66,
+            "signaltype": null
+        }
+    }
+]
